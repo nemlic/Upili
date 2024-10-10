@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1{
+color: #ff6600;
+ font-size: 3.5rem;
+ font-weight: 800;
+}
+p{
+    font-size: 24px;
+}
+ img{
+    border-radius: 60px;
+    width: 900px;
+    height: 500px;
+ }

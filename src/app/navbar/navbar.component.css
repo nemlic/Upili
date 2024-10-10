@@ -1,0 +1,25 @@
+img{
+    height: 70px;
+    margin-left: 450px;
+}
+/* Center the navbar logo and links */
+.navbar .navbar-brand {
+    margin-right: 170px; /* Add space between logo and navbar items */
+}
+
+.navbar {
+    width: 100vw;
+    position: relative;
+    
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 0.1;
+}
+.navbar-nav .nav-link{
+    font-weight: 900px;
+    font-size: 14px;
+    color: black;
+}

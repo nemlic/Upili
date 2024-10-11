@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.form{
+    display: flex;
+}
+.handles i{
+    color: orangered;
+    font-size: 19px;
+    margin-left: 3%;
+}

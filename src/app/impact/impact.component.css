@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #1bad1b;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+i{
+    color: #1bad1b;
+    text-align: center;
+    font-size: 2rem;
+}
+h6{
+    font-size: 22px;
+    color: #1bad1b;
+    text-align: center;
+    font-weight: 600;
+}
+.card{
+    height: 18rem;
+    border: none;
+
+}
+p{
+    color: gray;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 500;
+}
